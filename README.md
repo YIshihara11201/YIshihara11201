@@ -1,7 +1,7 @@
 <h1 align="center">I'm Yusuke Ishihara</h1>
 <h3 align="center">iOS developer in Canada</h3>
 
-- All of my projects are available at [portfolio](https://portfolio-yishihara11201.vercel.app/)
+- All of my projects are available at [portfolio](https://yishihara11201.vercel.app/)
 
 - How to reach me **yusukeishihara87@gmail.com**
 
