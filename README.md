@@ -1,5 +1,5 @@
 <h1 align="center">I'm Yusuke Ishihara</h1>
-<h3 align="center">iOS developer in Toronto</h3>
+<h3 align="center">iOS developer</h3>
 
 - All of my projects are available at [portfolio](https://yishihara11201.vercel.app/)
 
